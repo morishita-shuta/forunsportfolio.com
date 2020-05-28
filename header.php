@@ -34,7 +34,7 @@
           <li class="header__nav-item"><a href="#work-area" class="header__nav-link">作品</a></li>
         </ul>
       </nav>
-			<a href="#contact-area" class="header__contact-btn">問い合わせ</a>
+			<a href="#contact-area" class="header__contact-btn">お問い合わせ</a>
 		</div>
 	</div>
   <?php else: ?>
